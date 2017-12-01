@@ -1,0 +1,45 @@
+{
+   "people":[
+      {
+        "title":"Henry Ford",
+         "born":1863,
+         "died":1947,
+         "when":1930,
+         "info":"his life story"
+      }
+   ],
+   "concepts":[
+      {
+        "title":"Lights-out Automation",
+         "when":1980,
+         "info":"Car companies had the idea to beat their competitors by having robots and their assembly lines make their products without any human maintenance or supervision."
+      },
+      {
+        "title":"The Debate for Automation",
+         "when":1998,
+         "info":"People who argue for automation believe that robots and other self-servicing machines take all of the jobs that no one really wants to have and that by taking away those jobs it allows factory workers to pursue more rewarding jobs."
+      },
+      {
+        "title":"The Debate Aginst Automation",
+         "when":2008,
+         "info":"Those against automation say that it leads to loss of jobs. They also argue that keeping both humans and robots on a work force is dehumanizing to the workers. "
+      },
+      {
+        "title":"What is Automation?",
+         "when":1944,
+         "info":"Automation according to the dictionary is 'the use of largely automatic equipment in a system of manufacturing or other production process'."
+      }
+   ],
+   "events":[
+      {
+        "title":"The Future of Automation",
+         "when":2017,
+         "info":"Automation is being used increasingly in multiple fields such as banking and aviation. The ultimate goal for manufacturing automation is lights out automation. "
+      },
+      {
+        "title":"Automation's Affect of Sufferage",
+         "when":1920,
+         "info":"As machines played an even more increasing role in production, women began to advocate for better pay citing that if machines can do the work then they could too"
+      }
+   ]
+}
